@@ -9,7 +9,10 @@ h2 {
 h3{
   color: MediumAquamarine;
 }
-
+.container {
+  display: flex;
+  justify-content: flex-start;
+}
 div.header {
   display: flex;
   font-family: Verdana;
@@ -19,6 +22,7 @@ div.header {
 
 div.container h3 {
   align-content: center;
+  padding-left: 10px;
 }
 
 logo {
