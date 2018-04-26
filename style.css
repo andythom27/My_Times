@@ -1,0 +1,47 @@
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3{
+  color: MediumAquamarine;
+}
+.container {
+  display: flex;
+  justify-content: flex-start;
+  width: auto;
+}
+div.header {
+  display: flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+div.container h3 {
+  align-content: center;
+  padding-left: 10px;
+}
+
+logo {
+
+}
+
+header nav {
+
+}
+
+nav li {
+
+}
+
+li {
+  display: inline-flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  align-items: flex-end;
+}
